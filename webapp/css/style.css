@@ -1,0 +1,4 @@
+/* Enter your custom styles here */
+.firstColumnNoBorder .sapMListTblCell:first-child {
+    border: none; /* Remove border for the first column */
+}
